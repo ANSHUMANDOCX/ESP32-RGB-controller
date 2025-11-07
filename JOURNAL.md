@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/7/2025 - Did research and completed Schematic  
+## 11/7/2025 1 PM - Did research and completed Schematic  
 
 So i had a 5m 5050 led strip lying around i wanted to make use of it so i am making a Web based rgb controller.
 
@@ -16,5 +16,15 @@ i will be needing atleast 12v 15amps to power the leds at max brightness for whi
 
 here is the schematic that i made 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d6533f7619583ad6edd0497c7f06ca092959c7da/image.png)
+  
+
+## 11/7/2025 11 PM - Completed the PCB   
+
+It was a small one didnt take much time completing the PCB 
+ive added holes![Screenshot 2025-11-07 233725](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--21b662b1a8120b6e71a89de3a80c703d26917a67/Screenshot%202025-11-07%20233725.png)
+ to mount it on to the 3d case.
+there are 2 header one for connecting the RGB and the other for Programming the board 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef439f37e4cad1bd22f51d67c0a1d3b5b4e0b1d3/image.png)
   
 
