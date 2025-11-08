@@ -28,11 +28,23 @@ there are 2 header one for connecting the RGB and the other for Programming the 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef439f37e4cad1bd22f51d67c0a1d3b5b4e0b1d3/image.png)
   
 
-## 11/8/2025 - Worked on the web interface  
+## 11/8/2025 10 AM - Worked on the web interface  
 
 So... completed the web design for the controller (sort of) at at least it includes all the features like the effects preset colors color picker brightness controller i can do with that will add more features to it if needed
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb36c6d70a5cb7ed641d17987be8412c3b67d8f8/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--454d83b34c98e65c84948ea1f385b0d26430b78c/image.png)
+
+  
+
+## 11/8/2025 6 PM - COMPLETED THE CAD  
+
+completed the cad yet again its a 2 part designing made to fasten the screw to itself and not need any other bolts 
+
+spent alot of time figuring out how to emboss the text but finally figured it out that i was using an unsupported font however learned something 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--9222e426ce08e91687f4250e1f37799b80f53ff0/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--56b6a1fa0961e07be6cf4f06ef07dcb05548cd2e/image.png)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--6d96aeeb6a57d2b689557cd6663c1bb3d6614095/image.png)
+
 
   
 
