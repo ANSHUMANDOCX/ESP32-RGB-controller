@@ -28,3 +28,11 @@ there are 2 header one for connecting the RGB and the other for Programming the 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef439f37e4cad1bd22f51d67c0a1d3b5b4e0b1d3/image.png)
   
 
+## 11/8/2025 - Worked on the web interface  
+
+So... completed the web design for the controller (sort of) at at least it includes all the features like the effects preset colors color picker brightness controller i can do with that will add more features to it if needed
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb36c6d70a5cb7ed641d17987be8412c3b67d8f8/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--454d83b34c98e65c84948ea1f385b0d26430b78c/image.png)
+
+  
+
